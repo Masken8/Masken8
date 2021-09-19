@@ -1,1 +1,1 @@
-[![Masken8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masken8)](https://github.com/anuraghazra/github-readme-stats)
+[![Masken8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masken8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
